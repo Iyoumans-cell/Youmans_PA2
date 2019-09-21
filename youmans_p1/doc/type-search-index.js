@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"youmans_p2","l":"BMI_CALCULATOR"},{"p":"youmans_p1","l":"DECRYPT"},{"p":"youmans_p1","l":"ENCRYPT"},{"p":"youmans_p3","l":"TOPIC"}]
